@@ -9,8 +9,7 @@ In this repository, you will find test assignments that have been completed. Eac
 
 The following is a list of the completed assignments in this repository:
 
-- blog-API (https://github.com/p-rayne/blog-API)  
-> blog, django restframework.
+- blog-API (https://github.com/p-rayne/blog-API) > blog, django restframework.
 
 ## Usage
 
